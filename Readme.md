@@ -4,6 +4,6 @@
 
 Check out the members directory
 
-## Finances
+## Transparency
 
-Check out the finance directory
+Check out the transparency directory
